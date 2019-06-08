@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "148867135916",
+    "firebase_url": "https://jeee-jeee.firebaseio.com",
+    "project_id": "jeee-jeee",
+    "storage_bucket": "jeee-jeee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148867135916:android:21902a6ec005abce",
+        "android_client_info": {
+          "package_name": "com.example.kappc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148867135916-h03t944fc7urm1e2ind7jk4vecuku1sv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kappc",
+            "certificate_hash": "5657bcbae4185e547bab0d6bc86535d6df30f10f"
+          }
+        },
+        {
+          "client_id": "148867135916-i85ck9fvvfeer39okhp28oe1bgcmo0sa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQGALBNrIfozHEHRJTr6NUosHaR7GNgz4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148867135916-i85ck9fvvfeer39okhp28oe1bgcmo0sa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
