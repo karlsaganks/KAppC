@@ -15,6 +15,14 @@
       },
       "oauth_client": [
         {
+          "client_id": "148867135916-7eugv1de1hpnu47m9qr59muhroh0gfk0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kappc",
+            "certificate_hash": "cb3e279428a8b9482455d4bafd715e6096672fac"
+          }
+        },
+        {
           "client_id": "148867135916-h03t944fc7urm1e2ind7jk4vecuku1sv.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
